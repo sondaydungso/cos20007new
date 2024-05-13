@@ -1,0 +1,14 @@
+C:\cos20007\work\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\cos20007\work\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\cos20007\work\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\cos20007\work\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\cos20007\work\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\cos20007\work\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
