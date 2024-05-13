@@ -39,7 +39,7 @@ namespace PathTest
         [Test]
         public void PathLocate() 
         {
-            _loc1.Locate("south");
+           
             Assert.AreEqual(_path, _loc1.Locate("south"));
         }
 

@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLookCommand", "..\TestL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocationTest", "..\LocationTest\LocationTest.csproj", "{DD2C9D5A-E91A-412B-A603-2ECA04D20CC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathTest", "..\PathTest\PathTest.csproj", "{F2240DB5-1F35-43F3-9606-E48EE380476E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathTest", "..\PathTest\PathTest.csproj", "{F2240DB5-1F35-43F3-9606-E48EE380476E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookCommandPro", "..\LookCommandPro\LookCommandPro.csproj", "{ECAFCE83-AB88-4C1C-A88E-EA2A328DE49D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F2240DB5-1F35-43F3-9606-E48EE380476E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2240DB5-1F35-43F3-9606-E48EE380476E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2240DB5-1F35-43F3-9606-E48EE380476E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAFCE83-AB88-4C1C-A88E-EA2A328DE49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFCE83-AB88-4C1C-A88E-EA2A328DE49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFCE83-AB88-4C1C-A88E-EA2A328DE49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFCE83-AB88-4C1C-A88E-EA2A328DE49D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

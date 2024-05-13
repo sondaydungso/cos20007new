@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {}
+    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {}
   },
   "projects": {
-    "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {
+    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "projectUniqueName": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
         "projectName": "IdentifiableObjectTest",
-        "projectPath": "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+        "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
         "packagesPath": "C:\\Users\\tranp\\.nuget\\packages\\",
-        "outputPath": "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\obj\\",
+        "outputPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj": {
-                "projectPath": "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj"
+              "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
+                "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj": {
+    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\SwinAdventure.csproj",
+        "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
         "packagesPath": "C:\\Users\\tranp\\.nuget\\packages\\",
-        "outputPath": "C:\\cos20007\\work\\SwinAdventure\\SwinAdventure\\obj\\",
+        "outputPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranp\\AppData\\Roaming\\NuGet\\NuGet.Config",

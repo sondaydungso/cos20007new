@@ -8,7 +8,7 @@ namespace SwinAdventure
 {
     public class Path : GameObject
     {
-        Location _source, _destination;
+        private Location _source, _destination;
         public Path(string[] ids, string name, string desc, Location source, Location destination) : base(ids, name, desc)
         {
             _destination = destination;
@@ -18,6 +18,7 @@ namespace SwinAdventure
                 AddIdentifier(n);
             }
         }
+       
         public Location Destination
         {
             get { return _destination; }
@@ -26,11 +27,11 @@ namespace SwinAdventure
         {
             get { return _source; }
         }
-        public override string ShortDescription
+        public override string Description
         {
             get
             {
-                return "This path connects " + _source.Name + " to " + _destination.Name + ". " + base.FullDescription;
+                return "This path connects " + _source.Name + " to " + _destination.Name + ". " ;
             }
         }
 

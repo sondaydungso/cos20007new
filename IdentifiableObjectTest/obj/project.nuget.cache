@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBfhi83cKhq228DBCd52stsu94d25xLrg5F8X78Sdy1FQ9NWdvh6zXACEDtWOheqnx4V4sWF3riwVq652wt+FA==",
+  "dgSpecHash": "slazHZF9Ly0BwJBEx1sZ48VmbDiOJAMRXdq/l3mPx9d8lWntjIBochgRTxPUQqPEiVW+UztEEYcxsMR2+RzjXw==",
   "success": true,
-  "projectFilePath": "C:\\cos20007\\work\\SwinAdventure\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
+  "projectFilePath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tranp\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\tranp\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

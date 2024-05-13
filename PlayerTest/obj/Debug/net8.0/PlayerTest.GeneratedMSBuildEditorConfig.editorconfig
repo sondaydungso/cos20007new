@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PlayerTest
-build_property.ProjectDir = C:\cos20007\work\SwinAdventure\PlayerTest\
+build_property.ProjectDir = C:\Users\tranp\OneDrive\Documents\GitHub\cos20007new\PlayerTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

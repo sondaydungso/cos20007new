@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvenTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58cf005637f3a66fb3d073dba1226261ab48a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvenTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvenTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

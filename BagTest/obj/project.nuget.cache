@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZdVTw4tXhKgp+89YxqHZI1XYGcbfGBJCeh2k3XbwevDHsxHK98nxF5777YzUTdpXYXWAZ9zt1id9ROXrP5ODoQ==",
+  "dgSpecHash": "qXj39pdz6JmJmox7segYHnylzOjGePZsi5A0EGkoAFHkpYr2MfW76nVGPQXiX3ftEypHBCe/8ZYBXvqErLwSCQ==",
   "success": true,
-  "projectFilePath": "C:\\cos20007\\work\\SwinAdventure\\BagTest\\BagTest.csproj",
+  "projectFilePath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tranp\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\tranp\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

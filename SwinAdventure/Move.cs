@@ -32,6 +32,7 @@ namespace SwinAdventure
                     return wrong;
             }
             GameObject _path = p.Location.Locate(direction);
+            
             if (_path == null)
             {
                 return wrong;
