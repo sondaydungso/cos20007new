@@ -30,6 +30,7 @@
             Item boot = new Item(new string[] { "boot" }, "boot", "this is a boot");
             Item glove = new Item(new string[] { "glove" }, "glove", "this is a glove");
             Item gem  = new Item(new string[] { "gem" }, "gem", "this is a gem");
+            Item mmb = new Item(new string[] { "mmb" }, "mmb", "this is a mmb");
             l.Inventory.Put(sword);
             l2.Inventory.Put(shield);
             l2.Inventory.Put(helmet);// item in location
@@ -37,6 +38,7 @@
             p.Inventory.Put(boot);
             p.Inventory.Put(glove);
             bag.Inventory.Put(gem);
+            bag.Inventory.Put(mmb);
             p.Inventory.Put(bag);// item in player inventory
             string input;
             Command c = new CommandProcessor();

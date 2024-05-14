@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C39FEFC1-659F-4610-81D9-FA8BBFD4E7F2}|..\\InvenTest\\InvenTest.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\inventest\\inventest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -14,16 +26,8 @@
       "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:commandprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBFF12CE-A80D-461B-A75B-EC53A6C31D94}|SwinAdventure.csproj|c:\\users\\tranp\\onedrive\\documents\\github\\cos20007new\\swinadventure\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "InvenTest.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\InvenTest\\InvenTest.cs",
               "RelativeDocumentMoniker": "..\\InvenTest\\InvenTest.cs",
@@ -72,8 +72,7 @@
               "RelativeToolTip": "..\\InvenTest\\InvenTest.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAswDYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T10:27:16.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T10:27:16.049Z"
             },
             {
               "$type": "Document",
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "Inventory.cs",
               "ToolTip": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Inventory.cs",
               "RelativeToolTip": "Inventory.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAuwDsAAAAQAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAA8wD4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T06:29:14.352Z",
               "EditorCaption": ""
@@ -114,20 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T02:46:42.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CommandProcessor.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\CommandProcessor.cs",
               "RelativeDocumentMoniker": "CommandProcessor.cs",
@@ -140,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IdentifiableObject.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\IdentifiableObject.cs",
               "RelativeDocumentMoniker": "IdentifiableObject.cs",
@@ -148,12 +147,11 @@
               "RelativeToolTip": "IdentifiableObject.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAgwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:44:41.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T02:44:41.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Path.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Path.cs",
               "RelativeDocumentMoniker": "Path.cs",
@@ -161,12 +159,11 @@
               "RelativeToolTip": "Path.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:57:05.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:57:05.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Move.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Move.cs",
               "RelativeDocumentMoniker": "Move.cs",
@@ -174,24 +171,24 @@
               "RelativeToolTip": "Move.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwCUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:39:14.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:39:14.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCoAAAA5AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:45:45.787Z"
+              "WhenOpened": "2024-04-23T12:45:45.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\Location.cs",
               "RelativeDocumentMoniker": "Location.cs",
@@ -199,8 +196,7 @@
               "RelativeToolTip": "Location.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAQwCoAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:18:23.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T06:18:23.344Z"
             }
           ]
         }
