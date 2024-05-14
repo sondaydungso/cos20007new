@@ -52,7 +52,8 @@ namespace InvenTest
         public void TestItemList()
         {
             PutItem();
-            Assert.AreEqual("brozen sword silver knife ", inven.ItemList);
+            string expected =  i.ShortDescription + "\n" + i2.ShortDescription + "\n";
+            Assert.AreEqual(expected, inven.ItemList);
         }
     }
 }

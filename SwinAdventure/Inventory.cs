@@ -57,9 +57,10 @@ namespace SwinAdventure
             get
             {
                 string result = "";
+                
                 foreach (Item itm in _items)
                 {
-                    result += itm.ShortDescription + " ";
+                    result += itm.ShortDescription + "\n";
                 }
                 return result;
             }
