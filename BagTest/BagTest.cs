@@ -39,7 +39,7 @@ namespace BagTest
         [Test]
         public void TestBagFullDescription()
         {
-            Assert.AreEqual("In the small bag you can see:\nbrozen sword silver knife big bag ", b.FullDescription);
+            Assert.AreEqual("In the small bag you can see:\n\t brozen sword\n\t silver knife\n\t big bag\n", b.FullDescription);
         }
         [Test]
         public void TestBagInBag()

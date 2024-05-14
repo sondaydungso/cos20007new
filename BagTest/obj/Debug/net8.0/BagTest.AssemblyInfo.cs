@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BagTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd79edb3ec0f81ae5626e9ca17b1fad4ac0e426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+714d4d9d0e52556d90b43652d0f888ecb334a443")]
 [assembly: System.Reflection.AssemblyProductAttribute("BagTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BagTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

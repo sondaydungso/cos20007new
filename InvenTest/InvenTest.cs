@@ -52,7 +52,7 @@ namespace InvenTest
         public void TestItemList()
         {
             PutItem();
-            string expected =  i.ShortDescription + "\n" + i2.ShortDescription + "\n";
+            string expected = "\t brozen sword\n\t silver knife\n";
             Assert.AreEqual(expected, inven.ItemList);
         }
     }

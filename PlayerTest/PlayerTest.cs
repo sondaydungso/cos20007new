@@ -41,7 +41,7 @@ namespace PlayerTest
         [Test]
         public void TestPlayerFullDescription()
         {
-            Assert.AreEqual("You are carrying: brozen sword brozen shield ", p.FullDescription);
+            Assert.AreEqual("You are carrying: \t brozen sword\n\t brozen shield\n", p.FullDescription);
         }
     }
 }
