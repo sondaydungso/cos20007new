@@ -31,6 +31,7 @@ namespace SwinAdventure
                 {
                     return p;
                 }
+                else { return null;}
             }   
             
             return _inventory.Fetch(id);

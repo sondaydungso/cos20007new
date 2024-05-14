@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cos20007\\work\\ShapeDrawer\\ShapeDrawer.csproj": {}
+    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\ShapeDrawer\\ShapeDrawer.csproj": {}
   },
   "projects": {
-    "C:\\cos20007\\work\\ShapeDrawer\\ShapeDrawer.csproj": {
+    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\ShapeDrawer\\ShapeDrawer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cos20007\\work\\ShapeDrawer\\ShapeDrawer.csproj",
+        "projectUniqueName": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\ShapeDrawer\\ShapeDrawer.csproj",
         "projectName": "ShapeDrawer",
-        "projectPath": "C:\\cos20007\\work\\ShapeDrawer\\ShapeDrawer.csproj",
+        "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\ShapeDrawer\\ShapeDrawer.csproj",
         "packagesPath": "C:\\Users\\tranp\\.nuget\\packages\\",
-        "outputPath": "C:\\cos20007\\work\\ShapeDrawer\\obj\\",
+        "outputPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\ShapeDrawer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tranp\\AppData\\Roaming\\NuGet\\NuGet.Config",
