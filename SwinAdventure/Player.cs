@@ -36,6 +36,16 @@ namespace SwinAdventure
                 return null;
             }
         }
+
+        public void Put(Item item)
+        {
+            _inventory.Put(item);
+        }
+        public Item Take(string item)
+        {
+            return _inventory.Take(item);
+        }
+
         public override string FullDescription
         {
             get

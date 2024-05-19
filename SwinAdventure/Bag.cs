@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SwinAdventure
 {
-    public class Bag : Item,IHaveInventory
+    public class Bag : Item, IHaveInventory
     {
         private Inventory _inventory;
         public Bag(string[] ids, string name, string desc) : base(ids, name, desc)
@@ -23,8 +23,17 @@ namespace SwinAdventure
             {
                 return _inventory.Fetch(id);
             }
-            
         }
+
+        public void Put(Item item)
+        {
+            _inventory.Put(item);
+        }
+        public Item Take(string item)
+        {
+            return _inventory.Take(item);
+        }
+
         public override string FullDescription
         {
             get

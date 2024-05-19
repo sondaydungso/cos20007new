@@ -9,6 +9,8 @@ namespace LookCommandPro
         Bag bag = new Bag(new string[] { "bag" }, "bag", "this is a bag");
         Location l = new Location(new string[] { "start" }, "start", "this is the start");
         Location l2 = new Location(new string[] { "south" }, "south", "this is the south");
+        Item item = new Item(new string[] { "item" }, "item", "this is an item");
+       
         SwinAdventure.Path path;
         [SetUp]
         public void Setup()
@@ -16,6 +18,7 @@ namespace LookCommandPro
             path = new SwinAdventure.Path(new string[] { "south" }, "door", "this is a door", l, l2);
             p.Location = l;
             l.AddPath(path);
+            l.Inventory.Put(item);
         }
 
         [Test]
@@ -39,6 +42,13 @@ namespace LookCommandPro
             string input = "mmb";
             c.Execute(p, input.ToLower().Split(' '));
             Assert.AreEqual("I don't know how to do that.", c.Execute(p, input.ToLower().Split(' ')));
+        }
+        [Test]
+        public void Test4()
+        {
+            string input = "look at item";
+            c.Execute(p, input.ToLower().Split(' '));
+            Assert.AreEqual(item.FullDescription, c.Execute(p, input.ToLower().Split()));
         }
     }
 }

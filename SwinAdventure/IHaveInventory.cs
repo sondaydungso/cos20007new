@@ -9,6 +9,11 @@ namespace SwinAdventure
     public interface IHaveInventory
     {
         GameObject Locate(string id);
+        void Put(Item item);
+        
+        Item Take(string id);
+
         string Name { get; }
+
     }
 }

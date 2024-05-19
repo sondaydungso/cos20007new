@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace SwinAdventure
 {
-    public class Move : Command
+    public class MoveCommand : Command
     {
-        public Move() : base(new string[] { "move" })
+        public MoveCommand() : base(new string[] { "move" })
         {
         }
         public override string Execute(Player p, string[] text)
@@ -19,7 +19,7 @@ namespace SwinAdventure
             switch (text.Length)
             {
                 case 1:
-                    return "Move where?";
+                    return "MoveCommand where?";
                 case 2:
                      direction = text[1].ToLower();
                     

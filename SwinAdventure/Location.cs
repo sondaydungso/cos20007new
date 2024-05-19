@@ -31,18 +31,26 @@ namespace SwinAdventure
                 {
                     return p;
                 }
-                else { return null;}
             }   
             
             return _inventory.Fetch(id);
-            
+
         }
+        public void Put(Item item)
+        {
+            _inventory.Put(item);
+        }
+
         public override string FullDescription
         {
             get
             {
                 return "You are at " + Name + ". " + base.Description + " " + _inventory.ItemList;
             }
+        }
+        public Item Take(string item)
+        {
+            return _inventory.Take(item);
         }
         public Inventory Inventory
         {

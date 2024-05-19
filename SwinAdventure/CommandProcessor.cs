@@ -13,7 +13,9 @@ namespace SwinAdventure
         {
             _commands = new List<Command>();
             _commands.Add(new LookCommand());
-            _commands.Add(new Move());
+            _commands.Add(new MoveCommand());
+            _commands.Add(new PutCommand());
+            _commands.Add(new TakeCommand());
         }
         public override string Execute(Player p, string[] text)
         {

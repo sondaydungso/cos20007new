@@ -52,6 +52,7 @@ namespace SwinAdventure
             }
             return null;
         }
+        
         public string ItemList
         {
             get
