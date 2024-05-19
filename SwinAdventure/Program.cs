@@ -6,6 +6,14 @@
         static void Main(string[] args)
         {
             string name, desc;
+            string help = "Commands: \n" +
+                "Look: Look at the location\n" +
+                "Go: Go to a location\n" +
+                "Take: Take an item\n" +
+                "Drop: Drop an item\n" +
+                "Inventory: Check your inventory\n" +
+                "Help: Display this help message\n" +
+                "Exit: Exit the game\n";
             Console.WriteLine("Enter player name: ");
             name = Console.ReadLine();
             Console.WriteLine("Enter player description: ");
@@ -40,7 +48,11 @@
             {
                 Console.WriteLine("Enter command: ");
                 input = Console.ReadLine();
-                if (input.ToLower() != "exit")
+                if (input.ToLower() == "help")
+                {
+                    Console.WriteLine(help);
+                }
+                if (input.ToLower() != "exit" && input.ToLower() != "help")
                 {
                     Console.WriteLine(c.Execute(player, input.ToLower().Split(' ')));
                 }
