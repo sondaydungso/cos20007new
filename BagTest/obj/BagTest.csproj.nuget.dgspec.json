@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj",
         "projectName": "BagTest",
-        "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj",
-        "packagesPath": "C:\\Users\\tranp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\BagTest\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\BagTest\\BagTest.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\BagTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tranp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
-                "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj"
               }
             }
           }
@@ -38,11 +43,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,21 +86,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
         "projectName": "SwinAdventure",
-        "projectPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
-        "packagesPath": "C:\\Users\\tranp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tranp\\OneDrive\\Documents\\GitHub\\cos20007new\\SwinAdventure\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\SwinAdventure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\cos20007new\\SwinAdventure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tranp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,6 +112,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,11 +125,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -146,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

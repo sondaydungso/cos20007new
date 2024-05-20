@@ -42,6 +42,11 @@ namespace LocationTest
             Assert.AreEqual(_item, _player.Locate("item"));
            
         }
+        [Test]
+        public void PlayerlocatePlayer()
+        {
+            Assert.AreEqual(_loc, _player.Locate("location"));
+        }
         
         
         

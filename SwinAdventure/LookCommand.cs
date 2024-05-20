@@ -17,49 +17,63 @@ namespace SwinAdventure
             IHaveInventory _container;
             string _itemID;
 
-            
-            if (text.Length == 1)
+            switch (text.Length)
             {
-                _container = p;
-                _itemID = "location";
-                return LookAtIn(_itemID, _container);
-            }
+                case 1:
+                    _container = p;
+                    _itemID = "location";
+                    break;
 
+                case 3:
+                    if (text[0].ToLower() != "look")
+                    {
+                        return "Error in look input";
+                    }
 
-            if (text[0].ToLower() != "look")
-            {
-                return "Error in look input";
-            }
+                    if (text[1] != "at")
+                    {
+                        return "What do you want to look at?";
+                    }
 
-            if (text[1] != "at")
-            {
-                return "What do you want to look at?";
-            }
-            if (text.Length == 3)
-            {
-                _container = p;
-                _itemID = text[2];
-                if (_container.Locate(_itemID) is null)
-                {
-                    return $"I can't find the {text[2]}";
-                }
-                else
-                {
-                    return _container.Locate(_itemID).FullDescription;
-                }
-            }
-            else
-            {
-                if (text.Length == 5 && text[3].ToLower() != "in")
-                {
-                    return "What do you want to look in?";
-                }
-                _container = FetchContainer(p, text[4]);
-                if (_container is null)
-                {
-                    return $"I can't find the {text[4]}";
-                }
-                _itemID = text[2];
+                    _container = p;
+                    _itemID = text[2];
+                    if (_container.Locate(_itemID) is null)
+                    {
+                        return $"I can't find the {text[2]}";
+                    }
+                    //else
+                    //{
+                    //    return _container.Locate(_itemID).FullDescription;
+                    //}
+                    break;
+
+                case 5:
+                    if (text[0].ToLower() != "look")
+                    {
+                        return "Error in look input";
+                    }
+
+                    if (text[1] != "at")
+                    {
+                        return "What do you want to look at?";
+                    }
+
+                    if (text[3].ToLower() != "in")
+                    {
+                        return "What do you want to look in?";
+                    }
+
+                    _container = FetchContainer(p, text[4]);
+                    if (_container is null)
+                    {
+                        return $"I can't find the {text[4]}";
+                    }
+
+                    _itemID = text[2];
+                    return LookAtIn(_itemID, _container);
+
+                default:
+                    return "Invalid input";
             }
             return LookAtIn(_itemID, _container);
         }
